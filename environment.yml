@@ -12,4 +12,5 @@ dependencies:
   - wget
   - docopt
   - deepdiff=8.6.0
+  - ethyca-fides=2.69.0
 prefix: /opt/anaconda3/envs/efffd
